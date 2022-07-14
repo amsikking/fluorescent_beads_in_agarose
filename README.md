@@ -19,7 +19,7 @@ How to make a 3D sample of beads for PSF measurements with ~water refractive ind
 - Put 0.1g of agarose into a glass beaker, add 10mL of pure water and swirl around
 - Microwave the agarose solution in 10s intervals until just boiling, swirl in between intervals and check for clarity (should take ~60s and be fully clear at the end)
 - Allow the agarose to cool until still noticeably warm to touch (i.e. above body temperature) and then pipette 400uL into 1.5mL tube. This starts the clock since the agarose will now cool quickly and solidify -> **so be ready!**
-- **Immediately** add 1.5uL of beads to the agarose and vortex vigorously
+- **Immediately** add 2.5uL of beads to the agarose and vortex vigorously
 - **Quickly** pipette 50uL of agarose/bead solution into the middle of the pre-prepared slides
 - **Now** squash the agarose/bead droplet with the bridging coverslip and tape down
 - The beads should be good for ~24hours (note that as they dry out the concentration of beads and agarose goes up...)
